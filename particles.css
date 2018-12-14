@@ -17,6 +17,15 @@ canvas {
   background-size: cover;
   background-position: 50% 50%;
 } /* ---- stats.js ---- */
+.wrapper {
+	position: relative;
+}
+.background {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -100;
+}
 .count-particles {
   background: #000022;
   position: absolute;
