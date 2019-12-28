@@ -1,2 +1,1 @@
-# MyEmotes
-This is a quick webpage showing most emotes that I have either edited or created.
+# A simple webpage showing most of the emotes I either edited or created (vast majority of the emotes were made by others)
